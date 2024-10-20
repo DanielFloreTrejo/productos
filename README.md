@@ -1,2 +1,2 @@
-# productos
-Es una simulacion de una pagina web que contiene un carro de comprar con jakarta
+# portafolio 
+Son proyectos que realize para mostrar en entrevista de trabajo
